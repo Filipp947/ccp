@@ -1,5 +1,433 @@
 [
-    {"fact": "Honey never spoils.", "source": "National Honey Board"},
-    {"fact": "Bananas are berries, but strawberries are not.", "source": "Botanical Journal"},
-    {"fact": "Octopuses have three hearts.", "source": "Marine Biology Textbook"}
+
+  {"fact": "Banging your elbow is called hitting your 'funny bone' because it affects the ulnar nerve."},
+
+  {"fact": "Some lizards can squirt blood from their eyes as a defense mechanism."},
+
+  {"fact": "The human eye can distinguish about 10 million different colors."},
+
+  {"fact": "Bees can recognize human faces."},
+
+  {"fact": "A bolt of lightning can reach temperatures hotter than the surface of the sun."},
+
+  {"fact": "Water makes different pouring sounds depending on its temperature."},
+
+  {"fact": "Orcas are the largest members of the dolphin family."},
+
+  {"fact": "Cheetahs can't roar, they meow like house cats."},
+
+  {"fact": "The average person has about 100,000 hairs on their head."},
+
+  {"fact": "Snakes can help predict earthquakes."},
+
+  {"fact": "The fingerprints of a koala are almost indistinguishable from humans'."},
+
+  {"fact": "Your brain stops growing at age 25."},
+
+  {"fact": "Some fish can walk on land."},
+
+  {"fact": "The average person produces about half a liter of saliva per day."},
+
+  {"fact": "Hummingbirds are the only birds that can fly backwards."},
+
+  {"fact": "Spiders can’t fly, but they can travel by ballooning on silk strands."},
+
+  {"fact": "Some mushrooms glow in the dark."},
+
+  {"fact": "The human body has enough iron to make a small nail."},
+
+  {"fact": "Your heartbeat syncs with the rhythm of music you’re listening to."},
+
+  {"fact": "Dolphins sleep with one eye open."},
+
+  {"fact": "Blue eyes are more sensitive to light."},
+
+  {"fact": "A day on Pluto lasts about 6.4 Earth days."},
+
+  {"fact": "Turtles can breathe through their butts."},
+
+  {"fact": "Octopuses have blue blood."},
+
+  {"fact": "The tongue is the strongest muscle relative to size."},
+
+  {"fact": "Your brain uses the same amount of power as a 10-watt light bulb."},
+
+  {"fact": "A giraffe has the same number of neck vertebrae as a human: seven."},
+
+  {"fact": "The ocean contains nearly 20 million tons of gold."},
+
+  {"fact": "Some birds sleep while flying."},
+
+  {"fact": "A mosquito has 47 teeth."},
+
+  {"fact": "Most elephants weigh less than the tongue of a blue whale."},
+
+  {"fact": "Your bones are about five times stronger than steel of the same density."},
+
+  {"fact": "Alligators can live over 100 years."},
+
+  {"fact": "The longest word in the English language has 189,819 letters."},
+
+  {"fact": "Tigers' urine smells like buttered popcorn."},
+
+  {"fact": "Snakes smell with their tongues."},
+
+  {"fact": "A hummingbird’s heart beats up to 1,200 times per minute."},
+
+  {"fact": "Wearing headphones for an hour increases bacteria in your ear by 700 times."},
+
+  {"fact": "Sharks can detect a drop of blood from miles away."},
+
+  {"fact": "Your foot has 26 bones."},
+
+  {"fact": "Slugs have four noses."},
+
+  {"fact": "A blue whale’s heart beats only 8–10 times per minute."},
+
+  {"fact": "Bats always turn left when exiting a cave."},
+
+  {"fact": "Humans can survive longer without food than sleep."},
+
+  {"fact": "Some ants can build living bridges using their bodies."},
+
+  {"fact": "Your ears never stop growing."},
+
+  {"fact": "A crocodile can go months without food."},
+
+  {"fact": "There's enough DNA in the human body to stretch from the sun to Pluto and back—17 times."},
+
+  {"fact": "Most of the dust in your home is made from dead skin."},
+
+  {"fact": "The smell of chocolate increases theta brain waves."},
+
+  {"fact": "The word 'bookkeeper' has three consecutive double letters."},
+
+  {"fact": "Dragonflies can see in all directions at once."},
+
+  {"fact": "Some frogs can freeze solid and still survive."},
+
+  {"fact": "Bananas are slightly radioactive."},
+
+  {"fact": "There are more fake flamingos in the world than real ones."},
+
+  {"fact": "Mice sing songs to each other, but at ultrasonic frequencies."},
+
+  {"fact": "Lobsters taste with their legs."},
+
+  {"fact": "Your stomach acid is strong enough to dissolve razor blades."},
+
+  {"fact": "The longest time between two twins being born is 87 days."},
+
+  {"fact": "Butterflies remember being caterpillars."},
+
+  {"fact": "Humans are bioluminescent, but the light is too weak to be seen by the naked eye."},
+
+  {"fact": "If you could fold a piece of paper 42 times, it would reach the moon."},
+
+  {"fact": "The M’s in M&M’s stand for Mars and Murrie."},
+
+  {"fact": "Sharks do not have bones."},
+
+  {"fact": "A group of frogs is called an army."},
+
+  {"fact": "Goats have rectangular pupils."},
+
+  {"fact": "The sun makes up 99.86% of the mass in our solar system."},
+
+  {"fact": "The speed of a computer mouse is measured in 'Mickeys'."},
+
+  {"fact": "No number before 1,000 contains the letter A."},
+
+  {"fact": "The average pencil can draw a line 35 miles long."},
+
+  {"fact": "The inventor of the microwave only received $2 for his discovery."},
+
+  {"fact": "A jiffy is an actual unit of time: 1/100th of a second."},
+
+  {"fact": "You can’t burp in space."},
+
+  {"fact": "Your small intestine is about 22 feet long."},
+
+  {"fact": "Elephants are the only mammals that can’t jump."},
+
+  {"fact": "There are more bacteria in your mouth than people on Earth."},
+
+  {"fact": "A jellyfish is 95% water."},
+
+  {"fact": "Cows have almost 360-degree panoramic vision."},
+
+  {"fact": "Sunsets on Mars are blue."},
+
+  {"fact": "One piece of space junk returns to Earth every day."},
+
+  {"fact": "A single teaspoon of honey represents the life work of 12 bees."},
+
+  {"fact": "Polar bears have black skin."},
+
+  {"fact": "Some metals can be liquid near room temperature."},
+
+  {"fact": "You can’t taste food without saliva."},
+
+  {"fact": "Yawning helps cool your brain."},
+
+  {"fact": "An adult human has 206 bones."},
+
+  {"fact": "The surface area of the lungs is about the size of a tennis court."},
+
+  {"fact": "Lemons float, but limes sink."},
+
+  {"fact": "Avocados mature on the tree but ripen off it."},
+
+  {"fact": "Octopuses can squeeze through anything bigger than their beak."},
+
+  {"fact": "A bolt of lightning has enough energy to toast 100,000 slices of bread."},
+
+  {"fact": "Ravens can mimic human speech."},
+
+  {"fact": "Male lions do about 90% of the sleeping in a pride."},
+
+  {"fact": "Some jellyfish can clone themselves."},
+
+  {"fact": "Humans have more bacterial cells than human cells."},
+
+  {"fact": "There's a planet where it rains glass sideways."},
+
+  {"fact": "The strongest muscle in the body is the masseter (jaw muscle)."},
+
+  {"fact": "Blood is red due to iron, not oxygen."},
+
+  {"fact": "Newborns have over 300 bones; adults have 206 due to fusion."},
+
+  {"fact": "A day on Uranus lasts 17 hours and 14 minutes."},
+
+  {"fact": "Humans can distinguish over 1 trillion smells."}
+
+  {"fact": "A group of flamingos is called a flamboyance."},
+
+  {"fact": "Some turtles can breathe through their butts."},
+
+  {"fact": "Ants don’t sleep."},
+
+  {"fact": "The unicorn is the national animal of Scotland."},
+
+  {"fact": "Cats have fewer toes on their back paws."},
+
+  {"fact": "Bananas grow upside-down."},
+
+  {"fact": "The Eiffel Tower can grow more than 6 inches in summer."},
+
+  {"fact": "Sloths can hold their breath longer than dolphins."},
+
+  {"fact": "Coca-Cola was the first soft drink in space."},
+
+  {"fact": "Peanuts are not nuts—they're legumes."},
+
+  {"fact": "The longest hiccuping spree lasted 68 years."},
+
+  {"fact": "Honey never spoils."},
+
+  {"fact": "Sharks existed before trees."},
+
+  {"fact": "A snail can sleep for three years."},
+
+  {"fact": "Ketchup was once sold as medicine."},
+
+  {"fact": "The moon has moonquakes."},
+
+  {"fact": "A crocodile can't stick its tongue out."},
+
+  {"fact": "Wombat poop is cube-shaped."},
+
+  {"fact": "There are more stars in the universe than grains of sand on Earth."},
+
+  {"fact": "A single strand of spaghetti is called a spaghetto."},
+
+  {"fact": "Hot water freezes faster than cold water under certain conditions."},
+
+  {"fact": "The word 'nerd' was first coined by Dr. Seuss."},
+
+  {"fact": "A bolt of lightning contains enough energy to toast 100,000 slices of bread."},
+
+  {"fact": "The Twitter bird has a name—Larry."},
+
+  {"fact": "Pineapples take about two years to grow."},
+
+  {"fact": "A blue whale’s heart is the size of a small car."},
+
+  {"fact": "Octopuses have three hearts."},
+
+  {"fact": "Camels have three eyelids to protect from sand."},
+
+  {"fact": "Bubble wrap was originally intended as wallpaper."},
+
+  {"fact": "Jellyfish have been around for over 500 million years."},
+
+  {"fact": "Mosquitoes are the deadliest animals on Earth."},
+
+  {"fact": "The dot over a lowercase 'i' is called a tittle."},
+
+  {"fact": "A cow-bison hybrid is called a beefalo."},
+
+  {"fact": "Pigeons can do math."},
+
+  {"fact": "Some sea cucumbers fight with their guts—literally."},
+
+  {"fact": "Giraffes only need 5 to 30 minutes of sleep per day."},
+
+  {"fact": "Carrots were originally purple."},
+
+  {"fact": "A jiffy is about 1/100th of a second."},
+
+  {"fact": "Chewing gum boosts mental performance."},
+
+  {"fact": "The tongue print is unique like a fingerprint."},
+
+  {"fact": "The smell of freshly-cut grass is a plant distress call."},
+
+  {"fact": "Humans glow in the dark, but it’s too faint to see."},
+
+  {"fact": "The average cloud weighs over a million pounds."},
+
+  {"fact": "The inventor of the Pringles can is buried in one."},
+
+  {"fact": "The first computer mouse was made of wood."},
+
+  {"fact": "Wearing red can increase your chances of winning."},
+
+  {"fact": "The word 'robot' comes from a Czech word for forced labor."},
+
+  {"fact": "A day on Venus is longer than its year."},
+
+  {"fact": "Cows have best friends."},
+
+  {"fact": "Octopuses taste with their arms."},
+
+  {"fact": "Elephants can’t jump."},
+
+  {"fact": "A crocodile can’t stick its tongue out."},
+
+  {"fact": "Apples float because 25% of their volume is air."},
+
+  {"fact": "The shortest war in history lasted 38 minutes."},
+
+  {"fact": "Kangaroos can’t walk backwards."},
+
+  {"fact": "You can’t hum while holding your nose."},
+
+  {"fact": "Dolphins have names for each other."},
+
+  {"fact": "Cows moo with regional accents."},
+
+  {"fact": "Most wasabi is just horseradish dyed green."},
+
+  {"fact": "Humans are the only animals with chins."},
+
+  {"fact": "A group of crows is called a murder."},
+
+  {"fact": "Tomatoes were once thought to be poisonous."},
+
+  {"fact": "Some cats are allergic to humans."},
+
+  {"fact": "Humans share about 60% of their DNA with bananas."},
+
+  {"fact": "A blob of toothpaste is called a nurdle."},
+
+  {"fact": "The first oranges weren’t orange—they were green."},
+
+  {"fact": "The average person walks the equivalent of five times around the world in a lifetime."},
+
+  {"fact": "A group of porcupines is called a prickle."},
+
+  {"fact": "Your nostrils only work one at a time."},
+
+  {"fact": "Sea otters hold hands when they sleep to keep from drifting apart."},
+
+  {"fact": "An octopus can regrow a lost arm."},
+
+  {"fact": "Butterflies can taste with their feet."},
+
+  {"fact": "Birds are the closest living relatives of dinosaurs."},
+
+  {"fact": "The inventor of Vaseline ate a spoonful of it every day."},
+
+  {"fact": "There’s a basketball court on the top floor of the U.S. Supreme Court building."},
+
+  {"fact": "There are more plastic flamingos in the U.S. than real ones."},
+
+  {"fact": "Tigers have striped skin, not just fur."},
+
+  {"fact": "There are more fake flamingos than real ones."},
+
+  {"fact": "Most dust in your home is made of dead skin cells."},
+
+  {"fact": "A 'moment' technically refers to 90 seconds."},
+
+  {"fact": "Rabbits can't puke."},
+
+  {"fact": "A bolt of lightning is five times hotter than the surface of the sun."},
+
+  {"fact": "Sharks can live for five centuries."},
+
+  {"fact": "Snails can have thousands of teeth."},
+
+  {"fact": "Penguins propose to each other with pebbles."},
+
+  {"fact": "The average adult human has about 5 million hairs."},
+
+  {"fact": "Birds don't urinate."},
+
+  {"fact": "The human stomach gets a new lining every 3-4 days."},
+
+  {"fact": "Slugs have four noses."},
+
+  {"fact": "A group of rhinos is called a crash."},
+
+  {"fact": "Some spiders can glide through the air."},
+
+  {"fact": "Goosebumps are a holdover from our evolutionary ancestors."},
+
+  {"fact": "A sneeze can travel up to 100 miles per hour."},
+
+  {"fact": "The first webcam was used to monitor a coffee pot."},
+
+  {"fact": "Vending machines are deadlier than sharks."},
+
+  {"fact": "Water can boil and freeze at the same time."},
+
+  {"fact": "There are more stars than atoms in a grain of sand."},
+
+  {"fact": "The average person has 67,000 thoughts per day."},
+
+  {"fact": "The national animal of Canada is the beaver."},
+
+  {"fact": "The U.S. has no official language."},
+
+  {"fact": "Polar bears have clear fur, not white."},
+
+  {"fact": "Spiders can't fly but they can balloon through the air."},
+
+  {"fact": "Human thigh bones are stronger than concrete."},
+
+  {"fact": "A shrimp’s heart is in its head."},
+
+  {"fact": "There’s a planet made of diamonds."},
+
+  {"fact": "Newborns don't shed tears until about 3 weeks old."},
+
+  {"fact": "Some turtles can breathe through their butts (again, because it’s wild)."},
+
+  {"fact": "Avocados are berries."},
+
+  {"fact": "There’s a species of jellyfish that’s biologically immortal."},
+
+  {"fact": "The word 'muscle' comes from a Latin word meaning 'little mouse'."},
+
+  {"fact": "Humans can live longer without food than without sleep."},
+
+  {"fact": "Your fingernails grow faster on your dominant hand."},
+
+  {"fact": "The average lightning bolt is 5 miles long."},
+
+  {"fact": "Some metals explode on contact with water."}
+
 ]
