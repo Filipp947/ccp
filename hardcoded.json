@@ -1,0 +1,83 @@
+{
+  "Dead Rails - Viridian": {
+    "gitlink": "https://api.luarmor.net/files/v3/loaders/37ceb5c98c411d9595d02b860de2af78.lua",
+    "origin": "",
+    "author": "",
+    "universal": false,
+    "hub": false,
+    "gameid": "70876832253163",
+    "game": true
+  },
+  "Dead Rails - NatHub": {
+    "gitlink": "https://raw.githubusercontent.com/ArdyBotzz/NatHub/refs/heads/master/NatHub.lua",
+    "origin": "",
+    "author": "",
+    "universal": false,
+    "hub": false,
+    "gameid": "70876832253163",
+    "game": true
+  },
+  "Dead Rails - Skull Hub": {
+    "gitlink": "https://raw.githubusercontent.com/hungquan99/SkullHub/main/loader.lua",
+    "origin": "",
+    "author": "",
+    "universal": false,
+    "hub": false,
+    "gameid": "70876832253163",
+    "game": true
+  },
+  "Dead Rails - Gumanba GUI": {
+    "gitlink": "https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/DeadRails",
+    "origin": "",
+    "author": "",
+    "universal": false,
+    "hub": false,
+    "gameid": "70876832253163",
+    "game": true
+  },
+  "Dead Rails - Forge Hub": {
+    "gitlink": "https://raw.githubusercontent.com/Skzuppy/forge-hub/main/loader.lua",
+    "origin": "",
+    "author": "",
+    "universal": false,
+    "hub": false,
+    "gameid": "70876832253163",
+    "game": true
+  },
+  "Grow a Garden - ThunderZ Hub": {
+    "gitlink": "https://raw.githubusercontent.com/ThunderZ-HUB/HUB/main/Script",
+    "origin": "",
+    "author": "",
+    "universal": false,
+    "hub": false,
+    "gameid": "126884695634066",
+    "game": true
+  },
+  "Grow a Garden - Rift": {
+    "gitlink": "https://rifton.top/loader.lua",
+    "origin": "",
+    "author": "",
+    "universal": false,
+    "hub": false,
+    "gameid": "126884695634066",
+    "game": true
+  },
+  "Grow a Garden - NoLag Hub": {
+    "gitlink": "https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Garden/Garden-V1.lua",
+    "origin": "",
+    "author": "",
+    "universal": false,
+    "hub": false,
+    "gameid": "126884695634066",
+    "game": true
+  },
+  "Grow a Garden - Speed Hub": {
+    "gitlink": "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua",
+    "origin": "",
+    "author": "",
+    "universal": false,
+    "hub": false,
+    "gameid": "126884695634066",
+    "game": true
+  }
+}
