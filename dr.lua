@@ -85,7 +85,7 @@ title.Parent = mainFrame
 local infoLabel = Instance.new("TextLabel")
 infoLabel.Size = UDim2.new(1, -20, 0, 50)
 infoLabel.Position = UDim2.new(0, 10, 0, 50)
-infoLabel.Text = "⚠️ Script will auto run in 3 seconds!"
+infoLabel.Text = "Script will auto run in 3 seconds!"
 infoLabel.Font = Enum.Font.GothamBold
 infoLabel.TextScaled = true
 infoLabel.BackgroundTransparency = 1
@@ -334,3 +334,31 @@ end
 queue_on_teleport([[
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Filipp947/ccp/refs/heads/main/dr.lua"))()
 ]])
+
+
+while wait(0.1) do 
+    local Players = game:GetService("Players")
+local TeleportService = game:GetService("TeleportService")
+
+local player = Players.LocalPlayer
+local placeId = 116495829188952 -- replace with your Place ID
+
+local function onCharacter(char)
+    local hum = char:FindFirstChildOfClass("Humanoid")
+    if not hum then return end
+
+    hum.Died:Connect(function()
+        -- queue script on teleport (executor must support it)
+        
+
+        -- teleport to your place
+        TeleportService:Teleport(placeId, player)
+    end)
+end
+
+if player.Character then
+    onCharacter(player.Character)
+end
+
+player.CharacterAdded:Connect(onCharacter)
+end
